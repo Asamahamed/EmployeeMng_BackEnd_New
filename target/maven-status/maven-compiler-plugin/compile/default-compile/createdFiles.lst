@@ -1,0 +1,4 @@
+com\example\demo\controller\usercontroller.class
+com\example\demo\FillStackCrudApplication.class
+com\example\demo\repository\UserRepo.class
+com\example\demo\model\User.class
